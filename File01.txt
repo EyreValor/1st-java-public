@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I modfile
+=======
+other modfile
+>>>>>>> 81af8272461e2fb99fd432e7c2a11bd96b33fa03
